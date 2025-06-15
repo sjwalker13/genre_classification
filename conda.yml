@@ -4,12 +4,12 @@ channels:
   - defaults
 dependencies:
   - requests=2.24.0
+  - databricks-cli
   - pip=20.3.3
   - mlflow=1.14.1
   - hydra-core=1.0.6
   - protobuf=3.20.0
   - numpy=1.23.4
-  - databricks.cli
   - pip:
       - wandb==0.10.21
       - hydra-joblib-launcher==1.1.2
