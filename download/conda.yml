@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python=3.10
   - pandas=2.2.1
+  - databricks-cli=0.8.7  
   - requests=2.31.0
   - pip=23.3.1
   - pip:
