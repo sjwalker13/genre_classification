@@ -9,4 +9,4 @@ dependencies:
   - pytest=8.0.2
   - scipy=1.12.0
   - pip:
-      - wandb==0.20.1
+      - wandb==0.18.7
